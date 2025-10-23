@@ -1,0 +1,434 @@
+{
+    "United States": {
+        "Underweight": 0.021,
+        "Normal Weight": 0.301,
+        "Overweight": 0.347,
+        "Obese": 0.274,
+        "Severely Obese": 0.057,
+        "GDP per Capita": 85810
+    },
+    "Alabama": {
+        "Underweight": 0.018,
+        "Normal Weight": 0.256,
+        "Overweight": 0.337,
+        "Obese": 0.32,
+        "Severely Obese": 0.069,
+        "GDP per Capita": 61846
+    },
+    "Alaska": {
+        "Underweight": 0.019,
+        "Normal Weight": 0.299,
+        "Overweight": 0.342,
+        "Obese": 0.274,
+        "Severely Obese": 0.066,
+        "GDP per Capita": 95147
+    },
+    "Arizona": {
+        "Underweight": 0.022,
+        "Normal Weight": 0.303,
+        "Overweight": 0.342,
+        "Obese": 0.275,
+        "Severely Obese": 0.058,
+        "GDP per Capita": 73203
+    },
+    "Arkansas": {
+        "Underweight": 0.019,
+        "Normal Weight": 0.25,
+        "Overweight": 0.341,
+        "Obese": 0.31,
+        "Severely Obese": 0.079,
+        "GDP per Capita": 60276
+    },
+    "California": {
+        "Underweight": 0.026,
+        "Normal Weight": 0.33,
+        "Overweight": 0.354,
+        "Obese": 0.248,
+        "Severely Obese": 0.042,
+        "GDP per Capita": 104916
+    },
+    "Colorado": {
+        "Underweight": 0.026,
+        "Normal Weight": 0.356,
+        "Overweight": 0.369,
+        "Obese": 0.214,
+        "Severely Obese": 0.035,
+        "GDP per Capita": 78212
+    },
+    "Connecticut": {
+        "Underweight": 0.018,
+        "Normal Weight": 0.303,
+        "Overweight": 0.359,
+        "Obese": 0.268,
+        "Severely Obese": 0.052,
+        "GDP per Capita": 100235
+    },
+    "Delaware": {
+        "Underweight": 0.017,
+        "Normal Weight": 0.281,
+        "Overweight": 0.336,
+        "Obese": 0.296,
+        "Severely Obese": 0.07,
+        "GDP per Capita": 98055
+    },
+    "District of Columbia": {
+        "Underweight": 0.028,
+        "Normal Weight": 0.396,
+        "Overweight": 0.322,
+        "Obese": 0.211,
+        "Severely Obese": 0.044,
+        "GDP per Capita": 263220
+    },
+    "Florida": {
+        "Underweight": 0.021,
+        "Normal Weight": 0.326,
+        "Overweight": 0.359,
+        "Obese": 0.245,
+        "Severely Obese": 0.049,
+        "GDP per Capita":  73784
+    },
+    "Georgia": {
+        "Underweight": 0.019,
+        "Normal Weight": 0.285,
+        "Overweight": 0.342,
+        "Obese": 0.291,
+        "Severely Obese": 0.063,
+        "GDP per Capita":  78754
+    },
+    "Hawaii": {
+        "Underweight": 0.027,
+        "Normal Weight": 0.372,
+        "Overweight": 0.331,
+        "Obese": 0.223,
+        "Severely Obese": 0.047,
+        "GDP per Capita":  80325
+    },
+    "Idaho": {
+        "Underweight": 0.019,
+        "Normal Weight": 0.307,
+        "Overweight": 0.347,
+        "Obese": 0.269,
+        "Severely Obese": 0.058,
+        "GDP per Capita": 63991
+    },
+    "Illinois": {
+        "Underweight": 0.022,
+        "Normal Weight": 0.292,
+        "Overweight": 0.344,
+        "Obese": 0.285,
+        "Severely Obese": 0.057,
+        "GDP per Capita":  90449
+    },
+    "Indiana": {
+        "Underweight": 0.019,
+        "Normal Weight": 0.269,
+        "Overweight": 0.328,
+        "Obese": 0.304,
+        "Severely Obese": 0.08,
+        "GDP per Capita":  76004
+    },
+    "Iowa": {
+        "Underweight": 0.015,
+        "Normal Weight": 0.265,
+        "Overweight": 0.354,
+        "Obese": 0.293,
+        "Severely Obese": 0.073,
+        "GDP per Capita":  79631
+    },
+    "Kansas": {
+        "Underweight": 0.024,
+        "Normal Weight": 0.269,
+        "Overweight": 0.332,
+        "Obese": 0.307,
+        "Severely Obese": 0.069,
+        "GDP per Capita":  79513
+    },
+    "Kentucky": {
+        "Underweight": 0.022,
+        "Normal Weight": 0.27,
+        "Overweight": 0.337,
+        "Obese": 0.307,
+        "Severely Obese": 0.065,
+        "GDP per Capita":  64110
+    },
+    "Louisiana": {
+        "Underweight": 0.021,
+        "Normal Weight": 0.259,
+        "Overweight": 0.328,
+        "Obese": 0.318,
+        "Severely Obese": 0.074,
+        "GDP per Capita":  71642
+    },
+    "Maine": {
+        "Underweight": 0.02,
+        "Normal Weight": 0.306,
+        "Overweight": 0.341,
+        "Obese": 0.276,
+        "Severely Obese": 0.056,
+        "GDP per Capita":  69803
+    },
+    "Maryland": {
+        "Underweight": 0.017,
+        "Normal Weight": 0.294,
+        "Overweight": 0.363,
+        "Obese": 0.272,
+        "Severely Obese": 0.055,
+        "GDP per Capita":  87021
+    },
+    "Massachusetts": {
+        "Underweight": 0.021,
+        "Normal Weight": 0.352,
+        "Overweight": 0.357,
+        "Obese": 0.234,
+        "Severely Obese": 0.036,
+        "GDP per Capita":  110561
+    },
+    "Michigan": {
+        "Underweight": 0.02,
+        "Normal Weight": 0.292,
+        "Overweight": 0.326,
+        "Obese": 0.294,
+        "Severely Obese": 0.068,
+        "GDP per Capita":  71083
+    },
+    "Minnesota": {
+        "Underweight": 0.016,
+        "Normal Weight": 0.306,
+        "Overweight": 0.355,
+        "Obese": 0.266,
+        "Severely Obese": 0.058,
+        "GDP per Capita":  86371
+    },
+    "Mississippi": {
+        "Underweight": 0.022,
+        "Normal Weight": 0.248,
+        "Overweight": 0.326,
+        "Obese": 0.31,
+        "Severely Obese": 0.094,
+        "GDP per Capita":  53061
+    },
+    "Missouri": {
+        "Underweight": 0.018,
+        "Normal Weight": 0.296,
+        "Overweight": 0.341,
+        "Obese": 0.284,
+        "Severely Obese": 0.062,
+        "GDP per Capita":  72108
+    },
+    "Montana": {
+        "Underweight": 0.017,
+        "Normal Weight": 0.331,
+        "Overweight": 0.343,
+        "Obese": 0.266,
+        "Severely Obese": 0.044,
+        "GDP per Capita":  66379
+    },
+    "Nebraska": {
+        "Underweight": 0.015,
+        "Normal Weight": 0.27,
+        "Overweight": 0.339,
+        "Obese": 0.31,
+        "Severely Obese": 0.067,
+        "GDP per Capita": 93145
+    },
+    "Nevada": {
+        "Underweight": 0.016,
+        "Normal Weight": 0.301,
+        "Overweight": 0.341,
+        "Obese": 0.292,
+        "Severely Obese": 0.051,
+        "GDP per Capita": 80880
+    },
+    "New Hampshire": {
+        "Underweight": 0.015,
+        "Normal Weight": 0.302,
+        "Overweight": 0.372,
+        "Obese": 0.269,
+        "Severely Obese": 0.042,
+        "GDP per Capita":  85518
+    },
+    "New Jersey": {
+        "Underweight": 0.024,
+        "Normal Weight": 0.328,
+        "Overweight": 0.371,
+        "Obese": 0.234,
+        "Severely Obese": 0.042,
+        "GDP per Capita":  90272
+    },
+    "New Mexico": {
+        "Underweight": 0.024,
+        "Normal Weight": 0.265,
+        "Overweight": 0.366,
+        "Obese": 0.298,
+        "Severely Obese": 0.047,
+        "GDP per Capita":  66229
+    },
+    "New York": {
+        "Underweight": 0.022,
+        "Normal Weight": 0.332,
+        "Overweight": 0.352,
+        "Obese": 0.248,
+        "Severely Obese": 0.047,
+        "GDP per Capita":  117332
+    },
+    "North Carolina": {
+        "Underweight": 0.012,
+        "Normal Weight": 0.296,
+        "Overweight": 0.348,
+        "Obese": 0.288,
+        "Severely Obese": 0.057,
+        "GDP per Capita":  75876
+    },
+    "North Dakota": {
+        "Underweight": 0.02,
+        "Normal Weight": 0.267,
+        "Overweight": 0.344,
+        "Obese": 0.305,
+        "Severely Obese": 0.064,
+        "GDP per Capita":  95982
+    },
+    "Ohio": {
+        "Underweight": 0.023,
+        "Normal Weight": 0.277,
+        "Overweight": 0.331,
+        "Obese": 0.292,
+        "Severely Obese": 0.077,
+        "GDP per Capita":  78120
+    },
+    "Oklahoma": {
+        "Underweight": 0.024,
+        "Normal Weight": 0.268,
+        "Overweight": 0.34,
+        "Obese": 0.297,
+        "Severely Obese": 0.071,
+        "GDP per Capita":  64719
+    },
+    "Oregon": {
+        "Underweight": 0.018,
+        "Normal Weight": 0.302,
+        "Overweight": 0.345,
+        "Obese": 0.27,
+        "Severely Obese": 0.065,
+        "GDP per Capita":  77916
+    },
+    "Pennsylvania": {
+        "Underweight": 0.021,
+        "Normal Weight": 0.29,
+        "Overweight": 0.347,
+        "Obese": 0.289,
+        "Severely Obese": 0.053,
+        "GDP per Capita":  78544
+    },
+    "Rhode Island": {
+        "Underweight": 0.017,
+        "Normal Weight": 0.311,
+        "Overweight": 0.362,
+        "Obese": 0.261,
+        "Severely Obese": 0.05,
+        "GDP per Capita":  74594
+    },
+    "South Carolina": {
+        "Underweight": 0.019,
+        "Normal Weight": 0.29,
+        "Overweight": 0.345,
+        "Obese": 0.285,
+        "Severely Obese": 0.061,
+        "GDP per Capita":  63711
+    },
+    "South Dakota": {
+        "Underweight": 0.018,
+        "Normal Weight": 0.295,
+        "Overweight": 0.318,
+        "Obese": 0.295,
+        "Severely Obese": 0.074,
+        "GDP per Capita":  80685
+    },
+    "Texas": {
+        "Underweight": 0.022,
+        "Normal Weight": 0.279,
+        "Overweight": 0.343,
+        "Obese": 0.293,
+        "Severely Obese": 0.063,
+        "GDP per Capita":  86987
+    },
+    "Utah": {
+        "Underweight": 0.02,
+        "Normal Weight": 0.331,
+        "Overweight": 0.339,
+        "Obese": 0.261,
+        "Severely Obese": 0.049,
+        "GDP per Capita":  86506
+    },
+    "Vermont": {
+        "Underweight": 0.02,
+        "Normal Weight": 0.345,
+        "Overweight": 0.346,
+        "Obese": 0.239,
+        "Severely Obese": 0.051,
+        "GDP per Capita":  70131
+    },
+    "Virginia": {
+        "Underweight": 0.022,
+        "Normal Weight": 0.301,
+        "Overweight": 0.353,
+        "Obese": 0.266,
+        "Severely Obese": 0.057,
+        "GDP per Capita":  86747
+    },
+    "Washington": {
+        "Underweight": 0.019,
+        "Normal Weight": 0.321,
+        "Overweight": 0.345,
+        "Obese": 0.261,
+        "Severely Obese": 0.053,
+        "GDP per Capita":  108468
+    },
+    "West Virginia": {
+        "Underweight": 0.013,
+        "Normal Weight": 0.247,
+        "Overweight": 0.326,
+        "Obese": 0.321,
+        "Severely Obese": 0.093,
+        "GDP per Capita":  60783
+    },
+    "Wisconsin": {
+        "Underweight": 0.015,
+        "Normal Weight": 0.29,
+        "Overweight": 0.321,
+        "Obese": 0.299,
+        "Severely Obese": 0.075,
+        "GDP per Capita":  75605
+    },
+    "Wyoming": {
+        "Underweight": 0.024,
+        "Normal Weight": 0.295,
+        "Overweight": 0.357,
+        "Obese": 0.264,
+        "Severely Obese": 0.061,
+        "GDP per Capita":  90335
+    },
+    "Guam": {
+        "Underweight": 0.019,
+        "Normal Weight": 0.285,
+        "Overweight": 0.294,
+        "Obese": 0.367,
+        "Severely Obese": 0.035,
+        "GDP per Capita":  40807
+    },
+    "Puerto Rico": {
+        "Underweight": 0.021,
+        "Normal Weight": 0.255,
+        "Overweight": 0.363,
+        "Obese": 0.301,
+        "Severely Obese": 0.061,
+        "GDP per Capita":  38357
+    },
+    "U.S. Virgin Islands": {
+        "Underweight": 0.029,
+        "Normal Weight": 0.279,
+        "Overweight": 0.315,
+        "Obese": 0.282,
+        "Severely Obese": 0.095,
+        "GDP per Capita":  44320
+    }
+}
