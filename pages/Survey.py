@@ -52,7 +52,7 @@ with st.form("survey_form"):
         min_value=0, 
         max_value=24, 
         step=1, 
-        value=0,
+        value=None,
         icon="🛌"
     )
     exercise_input = st.number_input(
