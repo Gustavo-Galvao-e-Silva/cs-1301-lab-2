@@ -47,7 +47,7 @@ with st.form("survey_form"):
         value=None,
         icon="🍎"
     )
-    sleep_input = st.slider(
+    sleep_input = st.number_input(
         label="How many hours do you sleep on average per night? (0-24)", 
         min_value=0, 
         max_value=24, 
