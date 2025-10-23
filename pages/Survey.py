@@ -40,9 +40,9 @@ st.write("Please fill out the form below to add your health data to our records"
 
 with st.form("survey_form"):
     fruits_input = st.number_input(
-        label="How many servings of fruits do you eat in a day? (0-10)", 
+        label="How many servings of fruits do you eat in a day? (0-20)", 
         min_value=0, 
-        max_value=10, 
+        max_value=20, 
         step=1, 
         value=None,
         icon="🍎"
